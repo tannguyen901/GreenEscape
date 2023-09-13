@@ -1,0 +1,25 @@
+{
+  "name": "greenescape",
+  "version": "1.0.0",
+  "description": "\"# GreenEscape\" \r An application where users can find, rate and share campgrounds with each other!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannguyen901/GreenEscape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannguyen901/GreenEscape/issues"
+  },
+  "homepage": "https://github.com/tannguyen901/GreenEscape#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongo": "^0.1.0"
+  }
+}
